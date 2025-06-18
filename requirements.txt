@@ -1,6 +1,7 @@
 Langchain
 ipykernel
 Langchain-community
+langchain-openai
 python-dotenv
 arxiv
 pymupdf
