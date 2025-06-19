@@ -8,3 +8,5 @@ pymupdf
 pypdf
 bs4
 wikipedia
+chromadb
+langchain-ollama
