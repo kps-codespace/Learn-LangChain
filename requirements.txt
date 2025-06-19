@@ -10,3 +10,6 @@ bs4
 wikipedia
 chromadb
 langchain-ollama
+sentence-transformers
+langchain_huggingface
+faiss-cpu
